@@ -8,7 +8,7 @@ This repository contains resources for analyzing and optimizing the performance 
 Lio, a leading telecommunications provider in India, is planning a strategic merger with Jotstar, one of the country’s most prominent streaming platforms. This potential partnership aims to combine LioCinema’s expansive subscriber base and Jotstar’s diverse content library to revolutionize digital streaming in India. As part of the merger preparation, the management team at Lio wants to analyse the performance and user behavior of both platforms—LioCinema and Jotstar—over the past one year (January to November 2024). The goal is to gain insights into individual platform performance, content consumption patterns, subscriber growth, Inactivity behavior, upgrade and downgrade trends. The insights derived from this study will help the management make informed decisions and optimize content strategies post-merger, with the ultimate goal of establishing Lio-Jotstar as the leading OTT platform in India.  Peter Pandey is the data analyst at Lio, and he is tasked to analyse the data and provide insights.  
 
 # Dashboard
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29c43c7a-c59c-4bcd-bc3c-141cbcd1fdab" />
+<img width="1027" height="563" alt="image" src="https://github.com/user-attachments/assets/0bccfe9d-f4a7-4a47-b615-96e319b37abb" />
 <img width="1196" height="686" alt="image" src="https://github.com/user-attachments/assets/bdb67a80-6eab-4669-a643-d174cba64159" />
 <img width="1240" height="686" alt="image" src="https://github.com/user-attachments/assets/a0a624a7-52b2-434c-8f0c-c8b3af412b3f" />
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/7641373e-f227-47f0-b5ec-90f2895c40d4" />
@@ -17,13 +17,6 @@ Lio, a leading telecommunications provider in India, is planning a strategic mer
 <img width="1129" height="626" alt="image" src="https://github.com/user-attachments/assets/cfb40e78-817e-44f0-8a43-f6ab4d5f4696" />
 
 
-
-![Screenshot 2025-06-27 172943](https://github.com/user-attachments/assets/8817abf3-bca0-4e5f-aa01-41732c45e105)
-![Screenshot 2025-06-27 172952](https://github.com/user-attachments/assets/efa931e7-73c2-431e-9136-2b627e805e45)
-![Screenshot 2025-06-27 172959](https://github.com/user-attachments/assets/b61a6ddb-7ca6-49fb-8fa3-4da64fc82e10)
-![Screenshot 2025-06-27 173006](https://github.com/user-attachments/assets/eede93c1-fa0b-47d4-b9b7-3a031093d43d)
-![Screenshot 2025-06-27 173013](https://github.com/user-attachments/assets/6a432fa1-9711-4984-823f-40e2f42ae408)
-![Screenshot 2025-06-27 173021](https://github.com/user-attachments/assets/fa36f60d-3387-41c5-90e9-f348025a5c2c)
 
 # Tech Stack
 SQL, Power Bi
