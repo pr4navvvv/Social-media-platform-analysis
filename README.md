@@ -8,6 +8,16 @@ This repository contains resources for analyzing and optimizing the performance 
 Lio, a leading telecommunications provider in India, is planning a strategic merger with Jotstar, one of the country’s most prominent streaming platforms. This potential partnership aims to combine LioCinema’s expansive subscriber base and Jotstar’s diverse content library to revolutionize digital streaming in India. As part of the merger preparation, the management team at Lio wants to analyse the performance and user behavior of both platforms—LioCinema and Jotstar—over the past one year (January to November 2024). The goal is to gain insights into individual platform performance, content consumption patterns, subscriber growth, Inactivity behavior, upgrade and downgrade trends. The insights derived from this study will help the management make informed decisions and optimize content strategies post-merger, with the ultimate goal of establishing Lio-Jotstar as the leading OTT platform in India.  Peter Pandey is the data analyst at Lio, and he is tasked to analyse the data and provide insights.  
 
 # Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29c43c7a-c59c-4bcd-bc3c-141cbcd1fdab" />
+<img width="1196" height="686" alt="image" src="https://github.com/user-attachments/assets/bdb67a80-6eab-4669-a643-d174cba64159" />
+<img width="1240" height="686" alt="image" src="https://github.com/user-attachments/assets/a0a624a7-52b2-434c-8f0c-c8b3af412b3f" />
+<img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/7641373e-f227-47f0-b5ec-90f2895c40d4" />
+<img width="1138" height="630" alt="image" src="https://github.com/user-attachments/assets/d52ca4da-5504-44b0-a605-eaf8619e4eb6" />
+<img width="1128" height="632" alt="image" src="https://github.com/user-attachments/assets/bf9b075c-4e0c-45f7-95c0-f9a8d9dd9d23" />
+<img width="1129" height="626" alt="image" src="https://github.com/user-attachments/assets/cfb40e78-817e-44f0-8a43-f6ab4d5f4696" />
+
+
+
 ![Screenshot 2025-06-27 172943](https://github.com/user-attachments/assets/8817abf3-bca0-4e5f-aa01-41732c45e105)
 ![Screenshot 2025-06-27 172952](https://github.com/user-attachments/assets/efa931e7-73c2-431e-9136-2b627e805e45)
 ![Screenshot 2025-06-27 172959](https://github.com/user-attachments/assets/b61a6ddb-7ca6-49fb-8fa3-4da64fc82e10)
